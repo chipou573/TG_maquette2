@@ -1,0 +1,123 @@
+/* --- Moumine Work --- */
+nav {
+    background: gray;
+    color: #fff;
+    padding: 10px 0;
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* --- Footer --- */
+  .footer {
+    background: gray;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* --- Abdelkerim Work --- */
+  #right,
+  .left {
+    width: 48%;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    margin: 10px 1%;
+    float: left;
+    text-align: center;
+    line-height: 200px;
+  }
+  
+  /* --- Danra Félicien Work --- */
+  .block h1 {
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  .sect1, .sect2 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+  }
+  
+  .a, .b {
+    width: 180px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .a img, .b img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .btn {
+    margin-top: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color: #218838;
+  }
+  
+  .sect3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+    color: #333;
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .fullscreen-img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  /* --- Demi Footer --- */
+  .demi-footer {
+    margin-top: 50px;
+    background-color: blue;
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+  }
+  
+  /* Général */
+  span {
+    color: black;
+  }
+  
